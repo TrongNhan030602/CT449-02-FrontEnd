@@ -27,6 +27,7 @@
         >
           <i class="fas fa-plus"></i> Thêm mới
         </button>
+        
         <button
           class="btn btn-sm btn-danger"
           @click="removeAllContacts"
